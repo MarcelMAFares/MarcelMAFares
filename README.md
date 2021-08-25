@@ -1,7 +1,7 @@
  <div bg-color>
   <a href="https://github.com/MarcelMAFares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcelMAFares&show_icons=true&&include_all_commits=true&count_private=true&bg_color=DEG,D16BA5,86A8E7,5FFBF1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelMAFares&layout=compact&langs_count=7&bg_color=DEG,D16BA5,86A8E7,5FFBF1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcelMAFares&show_icons=true&&include_all_commits=true&count_private=true&bg_color=DEG,5ee7df,e0c3fc"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelMAFares&layout=compact&langs_count=7&bg_color=DEG,e0c3fc,8ec5fc"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
